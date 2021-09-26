@@ -3,4 +3,6 @@ body{
     color:red;
     font-size: 20px;
     color:black;
+    box-sizing: border-box;
+    overflow-x: hidden;
 }
